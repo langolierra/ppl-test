@@ -1,0 +1,13 @@
+{
+  "primary": {
+    "version": "9-0-000-91",
+    "active": true
+  },
+  "secondary": {
+    "version": "9-0-000-91",
+    "active": true
+  },
+  "preprod": {
+    "version": "8-7-654-32"
+  }
+}
